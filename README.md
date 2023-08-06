@@ -55,6 +55,8 @@ I'm always eager to take on new challenges and projects, and I'm committed to ho
 ## Author
 
 - [@Cyber-Programer](https://www.github.com/Cyber-Programer)
+- [@Cyber-Programer fb ](https://www.facebook.com/root.lovs)
+- [@Cyber-Programer telegram ](https://telegram.me/root_lovs)
 
 ### My First website:
 - [@Cyberprogramer.web](https://cyber-programer.github.io/first_web)
