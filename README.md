@@ -1,6 +1,8 @@
 
 # YT MultiView Master
 
+![YT MultiView Master](https://github.com/Cyber-Programer/YT-MultiView-Master-/assets/125746506/635b9cbc-a42a-426e-ae1e-fba0c00e5108)
+
 ***` YT MultiView Master `*** is a user-friendly web automation project that enhances your YouTube browsing experience. You can open multiple YouTube videos in separate windows or tabs simultaneously, allowing you to watch and explore multiple videos at once.
 
 By automating the process of opening YouTube videos in different windows, `YT MultiView Master` saves you time and effort. Whether you want to compare different videos, listen to multiple songs, or keep an eye on various channels, `YT MultiView Master` enables you to do it all seamlessly.
@@ -30,11 +32,6 @@ You can use this `YT MultiView Master` for opening any kind of `website`. *I nam
 - **Thread Usage Notice:** As `YT MultiView Master` utilizes `threading` to open multiple windows simultaneously, it may exert additional `pressure on your system`, particularly on devices with lower configurations. Exercise caution when using the tool and ensure your system can handle the load.
 
 - **VPN Extension Included:** For added convenience, a `VPN extension` has been integrated into all `opened windows`. Feel free to use it effortlessly to enhance your browsing experience.
-## Screenshots
-
-![YT MultiView Master](https://github.com/Cyber-Programer/YT-MultiView-Master-/assets/125746506/635b9cbc-a42a-426e-ae1e-fba0c00e5108)
-
-
 
 # About Me 🚀
 Hello there! I'm a Python developer, and I'm passionate about programming and learning new technologies. 
