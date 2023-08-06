@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Fun" height="300" width="700">
+  <img src="https://github.com/Cyber-Programer/YT-MultiView-Master-/assets/125746506/539f4e82-bb3e-44c4-8b95-2c1cc6fd40b8">
 </p>
 
 
