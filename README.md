@@ -24,6 +24,9 @@ You can use this `YT MultiView Master` for opening any kind of `website`. *I nam
 
 - **Launch the Script:** Run the` YT MultiView Master` script in your command prompt or terminal using:
 ```bash
+  git clone https://github.com/Cyber-Programer/YT-MultiView-Master-.git
+```
+```bash
     python yt_multiview_master.pyw
 ```
 
