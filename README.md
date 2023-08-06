@@ -1,7 +1,11 @@
-
 # YT MultiView Master
-
-![YT MultiView Master](https://github.com/Cyber-Programer/YT-MultiView-Master-/assets/125746506/635b9cbc-a42a-426e-ae1e-fba0c00e5108)
+<br>
+<div align="center">
+  <img src="https://github.com/Cyber-Programer/YT-MultiView-Master-/assets/125746506/635b9cbc-a42a-426e-ae1e-fba0c00e5108" alt="YT MultiView Master">
+</div>
+<br>
+<br>
+<br>
 
 ***` YT MultiView Master `*** is a user-friendly web automation project that enhances your YouTube browsing experience. You can open multiple YouTube videos in separate windows or tabs simultaneously, allowing you to watch and explore multiple videos at once.
 
