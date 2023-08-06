@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Fun" height="300" width="1000">
+</p>
+
 
 # YT MultiView Master
 <br>
